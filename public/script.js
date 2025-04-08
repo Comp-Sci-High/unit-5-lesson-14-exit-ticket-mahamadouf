@@ -1,6 +1,8 @@
+console.log("Script running...")
+
 // Create a function that tests the post route handler [2 pts]
 
-let base = "https://curly-doodle-r9v5ppxg55r3v6w-3000.app.github.dev/"
+let base = "https://curly-doodle-r9v5ppxg55r3v6w-3000.app.github.dev"
 async function testPost(a, ba, ca, da, ea) {
     try {
         // fill in the path
